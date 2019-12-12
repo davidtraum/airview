@@ -1,0 +1,27 @@
+
+body {
+    overflow: hidden;
+}
+
+.card-close {
+    position: absolute;
+    right: 15px;
+    top: 15px;
+}
+
+.ol-attribution {
+    display: none !important;
+}
+
+.ol-overlay-container {
+    transition: 0.3s;
+}
+
+.ol-zoom-in {
+    border-radius: 50%;
+    border: none;
+}
+.ol-zoom-out {
+    border-radius: 50%;
+    border: none;
+}
